@@ -1,0 +1,6 @@
+{
+  "name": "Chúc Mừng Studio",
+  "description": "Studio thiết kế thiệp chúc mừng động cho Tri ân Thầy Cô, Năm Mới và các dịp lễ hội với hiệu ứng pháo hoa, chuỗi nhị phân, pháo giấy, kho font chữ, sticker, cắt ghép ảnh nghệ thuật và xuất video Facebook Story.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
